@@ -63,7 +63,6 @@ for the full list of resources provisioned in the resource group.
   Copy operations) succeeded.
 
   ![ADF dynamic pipeline run output](docs/screenshots/05_adf_pipeline_run_output.png)
-  ![Bronze layer loaded via ADF](docs/screenshots/06_bronze_layer_loaded.png)
 
 ### 2. Data Transformation (Azure Databricks — Bronze → Silver)
 - Authenticated to ADLS Gen2 from Databricks using a **Service Principal**
