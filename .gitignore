@@ -1,0 +1,11 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Databricks
+.ipynb_checkpoints/
+
+# Secrets - never commit real credentials
+*.env
+secrets.json

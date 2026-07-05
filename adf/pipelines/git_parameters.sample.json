@@ -1,0 +1,22 @@
+[
+  {
+    "p_rel_url": "veermohi/azure_data_engineering_project/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+    "p_sink_folder": "AdventureWorks_Product_Categories",
+    "p_file_name": "AdventureWorks_Product_Categories.csv"
+  },
+  {
+    "p_rel_url": "veermohi/azure_data_engineering_project/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+    "p_sink_folder": "AdventureWorks_Calendar",
+    "p_file_name": "AdventureWorks_Calendar.csv"
+  },
+  {
+    "p_rel_url": "veermohi/azure_data_engineering_project/refs/heads/main/Data/AdventureWorks_Customers.csv",
+    "p_sink_folder": "AdventureWorks_Customers",
+    "p_file_name": "AdventureWorks_Customers.csv"
+  },
+  {
+    "p_rel_url": "veermohi/azure_data_engineering_project/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+    "p_sink_folder": "Product_Subcategories",
+    "p_file_name": "AdventureWorks_Product_Subcategories.csv"
+  }
+]
