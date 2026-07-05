@@ -93,8 +93,9 @@ for the full list of resources provisioned in the resource group.
   **external table** (`gold.extsales`) backed by the Gold container
   ([`synapse/create_external_table.sql`](synapse/create_external_table.sql)).
 
-  ![Creating external tables in Synapse](docs/screenshots/09_synapse_create_external_table.png)
   ![Creating views in Synapse](docs/screenshots/10_synapse_create_views_gold.png)
+  ![Creating external tables in Synapse](docs/screenshots/09_synapse_create_external_table.png)
+
 
 ### 4. Reporting (Power BI)
 - Connected Power BI Desktop to the Synapse **Serverless SQL endpoint**
